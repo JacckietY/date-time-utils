@@ -1,6 +1,6 @@
 {
   "name": "@jacckiety/date-time-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package for date and time utilities.",
   "main": "./src/index.js",
   "scripts": {
@@ -18,5 +18,8 @@
     "datetime"
   ],
   "author": "JacckietY",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@jacckiety/mock-data-generator": "^1.0.1"
+  }
 }
