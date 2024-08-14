@@ -1,5 +1,5 @@
 {
-  "name": "date-time-utils",
+  "name": "@jacckiety/date-time-utils",
   "version": "1.0.0",
   "description": "A simple package for date and time utilities.",
   "main": "./src/index.js",
