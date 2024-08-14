@@ -2,9 +2,13 @@
   "name": "date-time-utils",
   "version": "1.0.0",
   "description": "A simple package for date and time utilities.",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacckietY/date-time-utils.git"
   },
   "keywords": [
     "date",
